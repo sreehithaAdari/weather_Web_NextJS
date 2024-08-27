@@ -81,6 +81,7 @@ The integration with OpenWeatherMap API is achieved through environment variable
 
 ![Screenshot 2024-08-27 184036](https://github.com/user-attachments/assets/33bd4b85-b338-4f2c-85b6-eff54720218c)
 
+![Screenshot 2024-08-27 183944](https://github.com/user-attachments/assets/390209a7-c8af-41f9-92de-82e7ccd1c8a9)
 
 ![Screenshot 2024-08-27 184023](https://github.com/user-attachments/assets/6896c346-23d5-4cd4-9d72-d2f194be4138)
 
